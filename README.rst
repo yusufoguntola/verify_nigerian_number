@@ -1,10 +1,17 @@
-## Verify Nigerian Number
+======================
+Verify Nigerian Number
+======================
+
 Python Library to determine details of a Nigerian mobile number
 
-### Getting started
+Getting started
+================
+
 * Install from pip `pip install verify-nigerian-number`
 
-### Usage
+Usage
+======
+
 * Get details of a number:
   
     .. code-block:: python
