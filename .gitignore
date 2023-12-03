@@ -1,2 +1,7 @@
 .idea
 .idea/*
+dist
+dist/*
+verify_nigerian_number.egg-info
+verify_nigerian_number.egg-info/*
+*.egg
